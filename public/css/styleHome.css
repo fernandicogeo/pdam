@@ -1,0 +1,230 @@
+
+
+
+.navbar-nav {
+  margin-right: 10px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 30px;
+  font-style: normal;
+}
+.icon {
+  position: absolute;
+  width: 1013.06px;
+  height: 963.88px;
+  left: 653px;
+  top: -81px;
+}
+.body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 30px;
+}
+
+.carousel {
+  padding-top: 10%;
+  width: 70%;
+  margin: auto;
+}
+
+.landingpagekiri {
+  width: 48%;
+  float: left;
+  margin-left: 10px;
+}
+
+.landingpagekiri h1 {
+  padding-left: 50px;
+  margin-top: 18%;
+  margin-left: 7%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 46px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.landingpagekanan {
+  width: 1%;
+  float: left;
+  top:200px;
+
+}
+
+.landingpagekiri h2 {
+  padding-left: 50px;
+  margin-left: 7%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 54px;
+}
+
+.landingpagekiri h3 {
+  padding-left: 50px;
+  margin-left: 7%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.landingpagekiri p {
+  width: 90%;
+  padding-left: 50px;
+  margin-left: 7%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+}
+
+button {
+  margin-top: 20%;
+  padding-left: 20px;
+  margin-top: 0px;
+  padding-top: 40px;
+  border-radius: 50x;
+}
+
+.landingpage2 {
+  margin-bottom: 6%;
+}
+
+.landingpage2 img {
+  margin-left: 3%;
+  margin-top: 20%;
+  width: 100%;
+  height: 80%;
+  padding-bottom: 50px;
+}
+
+.landingpage2 h1 {
+  margin-top: 30%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  margin-left: 5%;
+}
+
+.landingpage2 p {
+  width: 80%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+  margin-left: 5%;
+}
+
+.landingpage2 btn {
+  margin-left: 10%;
+  color: #11294d;
+  margin-top: 5%;
+}
+
+.landingpage3 img {
+  margin-top: 10%;
+  margin-left: 10%;
+  width: 70%;
+  height: 90%;
+  padding-bottom: 50px;
+}
+
+.landingpage3 h1 {
+  margin-top: 10%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  margin-left: 17%;
+}
+
+.landingpage3 p {
+  width: 80%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+  margin-left: 17%;
+}
+
+.landingpage3 btn {
+  margin-left: 17%;
+  color: #11294d;
+  margin-top: 5%;
+}
+
+.landingpage4 h1 {
+  margin-top: 17%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  margin-left: 8%;
+}
+
+.landingpage4 {
+  margin-bottom: 0px;
+}
+
+.landingpage4 img {
+  margin-left: 9%;
+  margin-top: 10%;
+  width: 80%;
+  height: 70%;
+  margin-bottom: 10%;
+}
+
+.landingpage4 p {
+  width: 75%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+  margin-left: 8%;
+}
+
+.landingpage4 btn {
+  margin-left: 15%;
+  color: #11294d;
+  margin-top: 5%;
+}
+
+.footer col h3 h7 p {
+  position: absolute;
+  width: 379px;
+  height: 111px;
+  left: 600px;
+  top: 3939px;
+}
+
+.alurprosedur img {
+  width: 70%;
+  margin: auto;
+  align-items: center;
+  margin-left: 15%;
+}
+
+.program col a:hover{
+  background: #3CB5B5;
+  border: 1px solid #3CB5B5;
+  color: #fff;
+}
